@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -7,13 +7,9 @@
     <Description>Extension methods</Description>
     <PackageProjectUrl>https://github.com/sandeepmvn/Utilities</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.1</Version>
-    <PackageId>Extension-Helpers</PackageId>
-    <Product>Extension-Helpers</Product>
+    <Version>1.0.2</Version>
+    <PackageId>Extension-Helpers-DotNet-Standard-2.0</PackageId>
+    <Product>Extension-Helpers-DotNet-Standard-2.0</Product>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="VisualStudio.gitignore" Version="1.0.1" />
-  </ItemGroup>
 
 </Project>
