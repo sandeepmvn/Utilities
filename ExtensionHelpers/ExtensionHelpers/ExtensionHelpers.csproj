@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>SandeepMVN</Authors>
+    <Company>Deccansoft Software Services</Company>
+    <Description>Extension methods</Description>
+    <PackageProjectUrl>https://github.com/sandeepmvn/Utilities</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="VisualStudio.gitignore" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>
