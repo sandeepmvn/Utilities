@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Extensions.QueryableHelper
 {
-    public static class QueryableHelpers
+    public static partial class QueryableHelpers
     {
         /// <summary>
         /// Provides functionality to evaluate queries against a specific data source where in the type of the data is known.

@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Extensions.EnumerableHelper
 {
-    public static class EnumerableHelper
+    public static partial class EnumerableHelper
     {
         /// <summary>
         /// Provides functionality to evaluate queries against a specific data source where in the type of the data is known.

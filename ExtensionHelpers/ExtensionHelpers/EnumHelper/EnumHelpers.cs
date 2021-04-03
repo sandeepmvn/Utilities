@@ -7,7 +7,7 @@ namespace Extensions.EnumHelper
     /// <summary>
     /// Enum Extension helper methods
     /// </summary>
-    public static class EnumHelpers
+    public static partial class EnumHelpers
     {
         /// <summary>
         /// Retrieves the name of the constant in the specified enumeration that has the specified value.

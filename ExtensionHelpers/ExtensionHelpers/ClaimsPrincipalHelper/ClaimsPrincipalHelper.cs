@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Extensions.ClaimsPrincipalHelper
 {
-    public static class ClaimsPrincipalHelper
+    public static partial class ClaimsPrincipalHelper
     {
         /// <summary>
         /// Get Claims information by claim type

@@ -6,6 +6,10 @@
     <Company>Deccansoft Software Services</Company>
     <Description>Extension methods</Description>
     <PackageProjectUrl>https://github.com/sandeepmvn/Utilities</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <PackageId>Extension-Helpers</PackageId>
+    <Product>Extension-Helpers</Product>
   </PropertyGroup>
 
   <ItemGroup>
